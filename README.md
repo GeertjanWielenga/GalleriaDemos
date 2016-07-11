@@ -2,7 +2,7 @@
 
 # Galleria Demos
 
-Small, focused demos to be used when illustrating, and discussing 'lessons learned',
+Small, focused, image-gallery component demos to be used when illustrating, and discussing 'lessons learned',
 on how to integrate various
 kinds of external components into Oracle JET applications, building up
 from simple non-JET scenarios to more complex fully developed JET scenarios.
