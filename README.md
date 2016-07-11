@@ -17,7 +17,7 @@ shows usage of the PrimeUI 'puigalleria' component:
 
 <hr>
 
-In <b>[https://github.com/GeertjanWielenga/GalleriaDemos/tree/master/Galleria1-Default/app Galleria2-Knockout]</b>, a modular app (RequireJS) together with Knockout is used
+In <b>[Galleria2-Knockout https://github.com/GeertjanWielenga/GalleriaDemos/tree/master/Galleria1-Default/app ]</b>, a modular app (RequireJS) together with Knockout is used
 to integrate the JQuery UI Accordion component via a Knockout component:
 
 <img style="border:1px solid black" src="Galleria2-Knockout/pic-1.png"/>
