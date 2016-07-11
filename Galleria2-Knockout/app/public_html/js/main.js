@@ -6,6 +6,6 @@ require.config({
         galleria: 'js/viewModels/galleria'
     }
 });
-require(['knockout', 'galleria'], function (ko, galleria, text) {
+require(['knockout', 'galleria'], function (ko, galleria) {
     ko.applyBindings(new galleria());
 });
