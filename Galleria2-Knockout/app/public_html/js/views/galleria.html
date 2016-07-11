@@ -1,5 +1,5 @@
 <div id="accordion" data-bind="foreach: images">
-    <div data-bind="attr: {'id': 'Task' + $data}" class="group">
+    <div data-bind="attr: {'id': 'image-' + $data}">
         <h3><b><span data-bind="text: $data"></span></b></h3>
         <div>
             <img   type="image"
@@ -7,7 +7,7 @@
                    data-bind="attr:{src: $data}"
                    width="250"
                    height="250"
-                   alt="No picture taken."/>
+                   alt="No pictur."/>
         </div>
     </div>
 </div>
