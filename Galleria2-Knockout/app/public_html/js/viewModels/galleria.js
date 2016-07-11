@@ -4,13 +4,12 @@ define(['knockout', 'jqueryui/accordion'], function (ko) {
             viewModel: function (params) {
                 this.images = ko.observableArray(params.images);
                 setTimeout(function () {
-                    $("#accordion")
-                            .accordion({
-                                header: "> div > h3",
-                                collapsible: true,
-                                active: false,
-                                heightStyle: "content"
-                            });
+                    $("#accordion").accordion({
+                        header: "> div > h3",
+                        collapsible: true,
+                        active: false,
+                        heightStyle: "content"
+                    });
                 }, 1000);
             },
             template: {require: 'text!js/views/galleria.html'}
