@@ -1,3 +1,5 @@
+<hr>
+
 # Galleria Demos
 
 <hr>
