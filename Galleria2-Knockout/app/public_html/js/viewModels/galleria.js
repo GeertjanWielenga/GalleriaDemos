@@ -2,9 +2,10 @@ define(['knockout', 'jqueryui/accordion'], function (ko) {
     return function galleriaViewModel() {
         ko.components.register("galleria", {
             viewModel: function (params) {
+                this.uniqueID = ko.observable('galleria'+params.uniqueID);
                 this.images = ko.observableArray(params.images);
                 setTimeout(function () {
-                    $("#accordion").accordion({
+                    $('#galleria'+params.uniqueID).accordion({
                         header: "> div > h3",
                         collapsible: true,
                         active: false,

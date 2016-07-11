@@ -9,13 +9,26 @@
         <script src="js/libs/requirejs/require.js" data-main="js/main" type="text/javascript"></script>
     </head>
     <body>
+        <h2>Work Gallery</h2>
         <div data-bind="component: {name:'galleria', 
-                params: {images: [
-                    'images/galleria1.jpg',
-                    'images/galleria2.jpg',
-                    'images/galleria3.jpg',
-                    'images/galleria4.jpg'
-                ]}
+            params: {
+              uniqueID: '1',
+              images: [
+                'images/galleria1.jpg',
+                'images/galleria3.jpg',
+                'images/galleria4.jpg'
+              ]
+            }
+        }"></div>
+        <h2>Vacation Gallery</h2>
+        <div data-bind="component: {name:'galleria', 
+            params: {
+              uniqueID: '2',
+              images: [
+                'images/galleria2.jpg',
+                'images/galleria4.jpg'
+              ]
+            }
         }"></div>
     </body>
 </html>
