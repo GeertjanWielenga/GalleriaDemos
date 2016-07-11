@@ -2,6 +2,10 @@
 
 # Galleria Demos
 
+Small, focused demos to be used when illustrating, and discussing 'lessons learned',
+on how to integrate various
+kinds of external components into Oracle JET applications.
+
 <hr>
 
 In Galleria1-Default, a simple straightforward plain and simple JavaScript app
