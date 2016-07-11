@@ -16,3 +16,4 @@ to integrate the JQuery UI Accordion component via a Knockout component:
 <img style="border:1px solid black" src="Galleria2-Knockout/pic-1.png"/>
 <img style="border:1px solid black" src="Galleria2-Knockout/pic-2.png"/>
 
+<hr>
