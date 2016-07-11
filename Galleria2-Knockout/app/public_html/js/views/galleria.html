@@ -1,2 +1,3 @@
-<p>First name: <input data-bind="value: firstName" /></p>
-<p>First name capitalized: <strong data-bind="text: firstNameCaps"></strong></p>
+<ul data-bind="foreach: images">
+    <li><span data-bind="text: $data"></span></li>
+</ul>
