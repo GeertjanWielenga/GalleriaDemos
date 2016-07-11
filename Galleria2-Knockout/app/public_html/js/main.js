@@ -3,6 +3,8 @@ require.config({
     paths: {
         knockout: 'js/libs/knockout/dist/knockout',
         text: 'js/libs/text/text',
+        jquery: 'js/libs/jquery/dist/jquery',
+        jqueryui: 'js/libs/jquery-ui/ui/',
         galleria: 'js/viewModels/galleria'
     }
 });
