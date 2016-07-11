@@ -4,7 +4,8 @@
 
 Small, focused demos to be used when illustrating, and discussing 'lessons learned',
 on how to integrate various
-kinds of external components into Oracle JET applications.
+kinds of external components into Oracle JET applications, building up
+from simple non-JET scenarios to more complex fully developed JET scenarios.
 
 <hr>
 
