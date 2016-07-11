@@ -1,3 +1,9 @@
 <ul data-bind="foreach: images">
-    <li><span data-bind="text: $data"></span></li>
+    <li style="list-style: none">
+        <input type="image"
+               style="border:1px solid black"
+               data-bind="attr:{src: $data}"
+               width="250"
+               height="250"
+               alt="No picture taken."/>
 </ul>
