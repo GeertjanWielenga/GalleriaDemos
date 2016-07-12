@@ -24,3 +24,11 @@ to integrate the JQuery UI Accordion component via a Knockout component:
 <img style="border:1px solid black" src="Galleria2-Knockout/pic-2.png"/>
 
 <hr>
+
+In <b><a href="https://github.com/GeertjanWielenga/GalleriaDemos/tree/master/Galleria3-Galleria.io/app">Galleria3-Galleria.io</a></b>, a modular app (RequireJS) together with Knockout is used
+to integrate the <a href="http://galleria.io/">Galleria.io</a> component via a Knockout component:
+
+<img style="border:1px solid black" src="Galleria3-Galleria.io/pic-1.png"/>
+<img style="border:1px solid black" src="Galleria3-Galleria.io/pic-2.png"/>
+
+<hr>
