@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "oraclejet": "2.0.2",
+    "galleria": "1.4.2"
+  },
+  "devDependencies": {}
+}
