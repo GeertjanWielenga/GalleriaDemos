@@ -11,7 +11,7 @@ define(['knockout', 'jqueryui/accordion'], function (ko) {
                         active: false,
                         heightStyle: "content"
                     });
-                }, 1000);
+                }, 0);
             },
             template: {require: 'text!js/views/galleria.html'}
         });
