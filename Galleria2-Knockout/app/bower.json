@@ -7,12 +7,7 @@
         "**/*.txt"
     ],
     "dependencies": {
-        "requirejs-text": "2.0.15",
-        "requirejs": "2.2.0",
-        "knockout": "3.4.0",
-        "text": "requirejs-text#2.0.15",
-        "primeui": "4.1.12"
+        "oraclejet": "2.0.2"
     },
-    "devDependencies": {
-    }
+    "devDependencies": {}
 }
